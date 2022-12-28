@@ -1,0 +1,11 @@
+{
+  "name": "nitro-bug",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "build": "nitropack build",
+    "dev": "nitropack dev"
+  },
+  "devDependencies": {
+    "nitropack": "^1.0.0"
+  }
+}
